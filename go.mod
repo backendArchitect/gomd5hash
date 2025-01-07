@@ -1,3 +1,3 @@
-module github.com/codeArtisanry/gomd5hash
+module github.com/backendArchitech/gomd5hash
 
 go 1.17
