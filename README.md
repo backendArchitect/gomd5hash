@@ -4,7 +4,7 @@ gomd5hash is a simple Golang package designed to make it easy to create MD5 hash
 ### Installation
 To use gomd5hash, you need to have Golang installed on your machine. You can install the package using the following go get command:
 ```
-go get github.com/yourusername/gomd5hash
+go get github.com/backendArchitech/gomd5hash
 ```
 
 ### Usage
@@ -12,7 +12,7 @@ Import the package in your Golang code:
 ```
 import (
     "fmt"
-    "github.com/codeArtisanry/gomd5hash"
+    "github.com/backendArchitech/gomd5hash"
 )
 ```
 
